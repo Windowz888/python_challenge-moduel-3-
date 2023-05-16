@@ -1,1 +1,5 @@
 # python_challenge-moduel-3-
+In this module, we be using Python to address practical problems. This collection features two Python projects, PyBank and PyPoll, which use scripting in Python to conduct economic and political analyses, respectively.
+Financial indicators including the total number of months in the dataset, net total profit/losses, average changes in profit/losses, and the highest increase and reduction in profits are among the many that we calculate while analyzing a financial dataset (budget_data.csv) for PyBank.
+In PyPoll, we assist a small town in upgrading its voting procedures. Using the results of the poll (election_data.csv), we determine the popular vote winner, the number of votes cast for each candidate, the percentage of the vote each candidate earned, and the overall number of votes cast.
+There is a main script (main.py) in the assignment folder, a Resources folder containing the necessary CSV files, and an Analysis folder containing the text file describing our results. The output can be exported as a text file or displayed on the console.
